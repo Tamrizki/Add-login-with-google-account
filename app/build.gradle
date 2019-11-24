@@ -27,6 +27,6 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
-// TODO [1]    Tambahkan graadle dibawah ini dan sync
+// TODO [1]    Tambahkan graadle dibawah ini dan sync, Setelah itu konfigurasikan projek anda pada Google API console pada https://developers.google.com/
     implementation 'com.google.android.gms:play-services-auth:17.0.0'
 }
